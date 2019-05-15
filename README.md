@@ -32,6 +32,6 @@ https://github.com/makersacademy/course/blob/master/boris_bikes/0_challenge_map.
 
 - Day 2 - Lin and Piers
 
-- Day 3 - Mel and 
+- Day 3 - 
 
-- Day 4 - Mel and
+- Day 4 - 
